@@ -13,6 +13,6 @@ img.app-logo {
     color: white !important;
 }
 
-ul.dropdown-menu li a {
-  color: black !important;
+ul[role="listbox"] li a {
+    color: black !important;
 }
