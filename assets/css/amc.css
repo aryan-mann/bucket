@@ -12,3 +12,7 @@ img.app-logo {
 .navbar a, .navbar a:before {
     color: white !important;
 }
+
+ul.dropdown-menu li a {
+  color: black !important;
+}
