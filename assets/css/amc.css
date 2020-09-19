@@ -1,0 +1,12 @@
+img.app-logo {
+  display: none;
+}
+
+/* Change navigation bar colour */
+.navbar.navbar-default.navbar-fixed-top {
+    background: #698f3f;
+}
+
+.navbar a, .navbar a:before {
+    color: white !important;
+}
