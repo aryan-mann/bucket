@@ -1,18 +1,16 @@
 @import "";
 
 img.app-logo {
-  display: none;
+  background: url(https://amchemproducts.com/wp-content/uploads/new-logo-symbol_white-transparent.png) no-repeat;
+  display: block;
+  box-sizing: border-box;
+  width: 42px;
+  height: 24px;
+  padding-left: 200px;
+  background-size: 38px 24px;
 }
 
 /* Change navigation bar colour */
 .navbar.navbar-default.navbar-fixed-top {
-    background: #698f3f;
-}
-
-.navbar a, .navbar a:before {
-    color: white !important;
-}
-
-ul[role="listbox"] li a, ui.dropdown-menu li a {
-    color: black !important;
+    background: #365f2b;
 }
