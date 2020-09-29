@@ -13,11 +13,11 @@ img.app-logo {
 
 /* Navigation bar becomes green */
 .navbar.navbar-default.navbar-fixed-top {
-    background: #365f2b;
+    background: #365f2b !important;
 }
 
 /* Make the right side grayish */
-nav.navbar-nav.navbar-right {
+.nav.navbar-nav.navbar-right {
   background: #f6f6f6;
 }
 
